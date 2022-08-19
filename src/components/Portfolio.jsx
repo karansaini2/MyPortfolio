@@ -1,7 +1,7 @@
 import React from "react";
-import banking from "../assets/portfolio/basic_banking.png";
+import banking from "../assets/portfolio/basic_banking.jpg";
 import blogs from "../assets/portfolio/blogs.png";
-import decor from "../assets/portfolio/homedecor.png";
+import decor from "../assets/portfolio/homedecor.jpg";
 import chat from "../assets/portfolio/gochat.png";
 import portfolio from "../assets/portfolio/portfolio.png";
 
