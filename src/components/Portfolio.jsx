@@ -15,7 +15,7 @@ const Portfolio = () => {
     {
       id: 2,
       src: portfolio,
-      link: "https://github.com/karansaini2/Basic_Bank_System",
+      link: "https://github.com/karansaini2/MyPortfolio",
     },
     {
       id: 3,
