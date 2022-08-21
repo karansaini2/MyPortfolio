@@ -39,8 +39,8 @@ const Home = () => {
           <img
             src={HeroImage}
             style={{
-              height: "400px",
-              width: "500px",
+              height: "300px",
+              width: "400px",
             }}
             alt="my profile"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
