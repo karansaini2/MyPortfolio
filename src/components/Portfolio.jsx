@@ -1,9 +1,9 @@
 import React from "react";
 import banking from "../assets/portfolio/basic_banking.jpg";
-import blogs from "../assets/portfolio/blogs.png";
+import homefinder from "../assets/portfolio/homefinder.png";
 import decor from "../assets/portfolio/homedecor.jpg";
 import chat from "../assets/portfolio/gochat.png";
-import portfolio from "../assets/portfolio/portfolio.png";
+import movies from "../assets/portfolio/movies.png";
 import crypto from "../assets/portfolio/crypto.png";
 
 const Portfolio = () => {
@@ -16,9 +16,9 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: portfolio,
-      link: "https://github.com/karansaini2/MyPortfolio",
-      title: "Porfolio",
+      src: movies,
+      link: "https://github.com/karansaini2/movie-streamer",
+      title: "Movie Streamer",
     },
     {
       id: 3,
@@ -35,9 +35,9 @@ const Portfolio = () => {
 
     {
       id: 5,
-      src: blogs,
-      link: "https://github.com/karansaini2/app",
-      title: "Blogs",
+      src: homefinder,
+      link: "https://github.com/karansaini2/House-Finder",
+      title: "Home Finder",
     },
     {
       id: 6,
